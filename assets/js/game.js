@@ -63,7 +63,7 @@ if (promptFight === "fight" || promptFight === "FIGHT") {
 } else {
   window.alert("You need to choose a valid option. Try again!");
 }
-
+//something
   }; 
 
 fight();
