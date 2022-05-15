@@ -49,7 +49,7 @@ console.log(
     window.alert(playerName + " still has " + playerHealth + " health left");
   }
   
-
+///something
   }; 
 
 fight();
